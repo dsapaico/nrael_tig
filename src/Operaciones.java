@@ -4,6 +4,9 @@ import java.util.Scanner;
  * @author Deisy
  */
 public class Operaciones {      
+
+
+    
     
     //atributos
     int numero1;

@@ -7,7 +7,15 @@ public class Operaciones {
 
 
     
-    
+
+
+
+
+
+
+
+    //espacios agregados ok
+
     //atributos
     int numero1;
     int numero2;
